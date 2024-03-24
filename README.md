@@ -14,7 +14,7 @@ https://www.linkedin.com/in/felicity-rodricks-ab273320b/
 
 https://www.linkedin.com/in/samcain-copnall/
 
-**It was a UTS Rocketry Team project, code can not open to public**
+**It was a UTS Rocketry Team project, code can not be opened to public**
 
 
 ## Ejection Charge ##
@@ -23,6 +23,8 @@ https://www.linkedin.com/in/samcain-copnall/
 : drogue parachute ejection condition - epogee detection
 
 : Main parachute ejection condition - can be change by code
+
+: sending real-time data to ground station
 
 
 ## LoRa radio Connection with Ground Station ##
