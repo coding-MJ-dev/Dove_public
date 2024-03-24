@@ -6,7 +6,7 @@
 
 : C++ / C project
 
-**Part of the UTS Rocketry Team project; code is not open to the public**
+**: Part of the UTS Rocketry Team project; code is not open to the public**
 
 
 ## Ejection Charge ##
@@ -26,7 +26,6 @@ Provides real-time data, including:
    - raw Altitude
    - Altitude 
    - vertical velocity
-   - GPS
 
 
 ## State Machine ##
