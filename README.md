@@ -44,27 +44,19 @@ Provides real-time data, including:
 
   
 ## Components ##
-1. microcontroller(MCU) - ESP32
+1. microcontroller(MCU) - [ESP32](https://www.snapeda.com/parts/ESP32-WROOM-32E/Espressif%20Systems/view-part/?ref=search&t=ESP32)
 
-[ESP32](https://www.snapeda.com/parts/ESP32-WROOM-32E/Espressif%20Systems/view-part/?ref=search&t=ESP32)
+2. LoRa radio - [LoRa](https://www.snapeda.com/parts/RFM95W-915S2/RF%20Solutions/view-part/?ref=search&t=Lora%20module)
 
-2. LoRa radio - RFM9XW
+3. GPS - [l80-m39](https://www.snapeda.com/parts/L80-M39/Quectel/view-part/?ref=quectel_in&t=l80-m39&con_ref=N)
 
-[LoRa](https://www.snapeda.com/parts/RFM95W-915S2/RF%20Solutions/view-part/?ref=search&t=Lora%20module)
-
-3. GPS -  l80-m39 
-
-[GPS](https://www.snapeda.com/parts/L80-M39/Quectel/view-part/?ref=quectel_in&t=l80-m39&con_ref=N)
-
-4. Altimeter(barometer) - MS5607
-
-[Altimeter](https://www.snapeda.com/parts/MS560702BA03-50/TE%20Connectivity/view-part/?ref=search&t=MS5607)
+4. Altimeter(barometer) - [MS5607](https://www.snapeda.com/parts/MS560702BA03-50/TE%20Connectivity/view-part/?ref=search&t=MS5607)
 
 
 
 ## Tool ##
 1. VS code
-3. Platform IO
+2. Platform IO
 
 
 
