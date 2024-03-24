@@ -14,36 +14,35 @@ https://www.linkedin.com/in/felicity-rodricks-ab273320b/
 
 https://www.linkedin.com/in/samcain-copnall/
 
-**It was a UTS Rocketry Team project, code can not be opened to public**
+**Part of the UTS Rocketry Team project; code is not open to the public**
 
 
 ## Ejection Charge ##
-: Electrical parachuate ejection 
+: Electrical parachute ejection system 
 
-: drogue parachute ejection condition - epogee detection
+: Drogue parachute ejection condition: apogee detection
 
-: Main parachute ejection condition - can be change by code
+: Main parachute ejection condition: configurable via code
 
-: sending real-time data to ground station
+: Real-time data transmission to the ground station
 
 
 ## LoRa radio Connection with Ground Station ##
-: Get a real-time data 
-: data includes
+Provides real-time data, including: 
    - state(on pad> ascending> apogee...) 
    - pressure
    - raw Altitude
    - Altitude 
    - vertical velocity
-   - gps
+   - GPS
 
 
 ## State Machine ##
-: state machine Based on collected flight data
+: Based on collected flight data
 
-: Using KalmanFilter to idealize the data
+: Uses Kalman Filter to refine the data
 
-: it consisted of 5 state
+: Consists of 5 states:
 
 0. idle
 1. ascending
