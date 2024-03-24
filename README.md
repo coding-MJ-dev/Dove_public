@@ -6,14 +6,6 @@
 
 : C++ / C project
 
-: Hardware made by Felicity Rodricks
-
-https://www.linkedin.com/in/felicity-rodricks-ab273320b/
-
-: It had successful flight with Level2 high power Rocket made by Sam Cain
-
-https://www.linkedin.com/in/samcain-copnall/
-
 **Part of the UTS Rocketry Team project; code is not open to the public**
 
 
